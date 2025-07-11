@@ -1,6 +1,6 @@
 # Gerenciador de Livros 📚
 
-Sistema simples em Python para gerenciar uma lista de livros, com funcionalidades para adicionar, listar, editar e remover livros. Usa a biblioteca [rich](https://github.com/Textualize/rich) para deixar o terminal colorido e com uma tabela bonita.
+Sistema simples em Python para gerenciar uma lista de livros, com funcionalidades para adicionar, listar, editar e remover livros. Usa a biblioteca [rich] para deixar o terminal colorido e com uma tabela bonita.
 
 ---
 
